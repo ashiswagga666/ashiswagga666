@@ -7,9 +7,14 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Sedang belajar dan berkembang
-- 🌱 Selalu tertarik dengan teknologi baru
+- 🎓 Mahasiswa Teknik Komputer
+- 📡 IoT Enthusiast
+- 🤖 AI Partner
+- 🌱 Selalu belajar teknologi baru
 - 💬 Jangan ragu untuk menghubungi saya
+
+### 📫 Connect with me
+[Add your social media links here]
 
 ---
 
