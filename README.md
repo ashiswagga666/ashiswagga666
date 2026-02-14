@@ -71,7 +71,6 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashiswagga666&layout=compact&theme=radical)](https://github.com/ashiswagga666)
 
 </div>
----
 
 ## 🔥 GitHub Streak
 
@@ -84,7 +83,9 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashiswagga666&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashiswagga666&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
