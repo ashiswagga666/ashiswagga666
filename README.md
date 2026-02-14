@@ -16,7 +16,7 @@
 - 💬 Jangan ragu untuk menghubungi saya
 
 ### 📫 Connect with me
-[Add your social media links here]
+[@ashiswagga]
 
 ---
 
