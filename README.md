@@ -61,14 +61,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashiswagga666&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false)
 
-[![Ashiswagga's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashiswagga666&show_icons=true&theme=radical)](https://github.com/ashiswagga666)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashiswagga666&layout=compact&theme=radical)](https://github.com/ashiswagga666)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiswagga666&layout=compact&theme=radical&hide_border=false)
 
 </div>
 
@@ -84,7 +83,7 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashiswagga666&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ashiswagga666&theme=radical&row=2&column=3&margin-w=15&margin-h=15)
 
 </div>
 
